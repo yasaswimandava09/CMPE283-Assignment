@@ -4,7 +4,7 @@ Note: i have pushed the all files to master branch
 
 Team
 1:Yasaswi Mandava
-2:Manikanta tanniru
+2:Manikanta Tanniru
  
 we connected over teams to finish this assignment .here firstly we setup a new linux machine in google cloud platform and we cloned the .c ,makefile and also we fokred the files from github and from canvas.we divided the work equally and shared quires among each other and resolved by sitting together.
 
